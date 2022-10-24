@@ -1,0 +1,6 @@
+{
+  "buildpacks": [
+    "https://github.com/lstoll/heroku-buildpack-monorepo",
+    "heroku/nodejs"
+  ]
+}
